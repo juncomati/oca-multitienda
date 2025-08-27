@@ -1,0 +1,1 @@
+<div><h2>Detalle de envío (placeholder)</h2></div>

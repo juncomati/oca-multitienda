@@ -1,0 +1,1 @@
+<div class='wrap'><h1>OCA Multitienda</h1><p>Configuración global (placeholder).</p></div>
